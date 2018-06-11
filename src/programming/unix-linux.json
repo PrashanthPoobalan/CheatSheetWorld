@@ -382,6 +382,14 @@
           "command": "alt+b",
           "description": "move cursor backward 1 word"
         }
+        {
+          "command": "ctrl+e",
+          "description": "move cursor to end of line"
+        }
+        {
+          "command": "!$",
+          "description": "get the last white space separated argument to the previous command"
+        }
       ]
     }
   ]
